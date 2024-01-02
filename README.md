@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Descrição
 Site desenvolvido durante o curso de Angular oferecido pela Trilha Capgemini.
-* Pode se adicionar um produto no carrinho, alterar a quantidade, remover.
+* Pode se adicionar um produto no carrinho, alterar a quantidade, remover e o preço já será reajustado automaticamente.
 
 ## Site
 https://lucasgyn94.github.io/proway-computers/
