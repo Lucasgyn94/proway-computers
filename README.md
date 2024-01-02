@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.13.
 
+## Descrição
+Site desenvolvido durante o curso de Angular oferecido pela Trilha Capgemini.
+
 ## Site
 https://lucasgyn94.github.io/proway-computers/
 
